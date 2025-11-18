@@ -101,4 +101,4 @@ RegisterNumber:212224040198
 
 
 ## Result:
-Thus, the SVM model was successfully implemented to classify food items for diabetic patients, with hyperparameter tuning optimizing the model's performance.
+Thus, the SVM model was successfully  implemented to classify food items for diabetic patients, with hyperparameter tuning optimizing the model's performance.
